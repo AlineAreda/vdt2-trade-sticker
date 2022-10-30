@@ -1,4 +1,4 @@
-## Viver de Teste 2.ª Temporada
+## Trade Sticker
 
 
 ## Testando um sistema de troca de figurinhas da copa em Robot Framework
