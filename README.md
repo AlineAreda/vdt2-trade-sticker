@@ -1,7 +1,7 @@
 ## Trade Sticker
 
 
-## Testando um sistema de troca de figurinhas da copa do mundo com outros colecionadores cadastrados na plataforma. Possui integração com a API do WhatsApp para iniciar a negociação das figurinhas.
+### Testando um sistema de troca de figurinhas da copa do mundo com outros colecionadores cadastrados na plataforma. Possui integração com a API do WhatsApp para iniciar a negociação das figurinhas.
 
 
 ### 🚀 Tecnologias
@@ -12,7 +12,7 @@
 
 
 
-## Pré-requisitos para a execução do projeto:
+### Pré-requisitos para a execução do projeto:
 
     Python: https://www.python.org/downloads/
     
@@ -36,7 +36,7 @@
 
         rfbrowser init
 
-## Executando o projeto:
+### Executando o projeto:
 
     Abrir o Git Bash ou qualquer outro terminal integrado ao Git.
 
