@@ -42,9 +42,8 @@
 
     Escolha uma pasta no seu S.O e entre nela para realizar o comando abaixo:
 
-    git clone https://github.com/thinogueiras/VDT-Season02-RobotFramework.git    
-
-    cd VDT-Season02-RobotFramework
+    git clone git@github.com:AlineAreda/vdt2-trade-sticker.git  
+ 
     
     Rodar a suíte de testes no Firefox:
 
